@@ -1,14 +1,14 @@
 ## Olá, me chamo Marcos Gabriel! 
 ### Bem vindo ao meu perfil GitHub 👋
 <br />
-Sou dev estudante do curso superior em Ciências da Computação e estou no terceiro semestre. Tenho 24 anos, sou natural de Brasília - DF e gosto muito de jogos,
+Sou dev estudante do curso superior em Ciências da Computação e estou no terceiro semestre. Tenho 26 anos, sou natural de Brasília - DF e gosto muito de jogos,
 especialmente os do gênero Souls Like.
 <br />
 <br />
-- 🔭 Atualmente estou trabalhando em um projeto pessoal, aplicativo para um laboratório de análises clínicas.
+- 🔭 Atualmente desenvolvo apps na Power Platform, voltados para a coleta de dados.
 <br />
 <br />
-- 🌱 Atualmente estou aprendendo Design Patterns e Testes automatizados.
+<!-- 🌱 Atualmente estou aprendendo Design Patterns e Testes automatizados. -->
 
   
 <br />
