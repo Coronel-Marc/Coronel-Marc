@@ -8,7 +8,7 @@ especialmente os do gênero Souls Like.
 - 🔭 Atualmente desenvolvo apps na Power Platform, voltados para a coleta de dados.
 <br />
 <br />
-<!-- 🌱 Atualmente estou aprendendo Design Patterns e Testes automatizados. -->
+- 🌱 Atualmente estou lendo 'storytelling com dados: um guia sobre visualização de dados para profissionais de negócios'
 
   
 <br />
