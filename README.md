@@ -1,21 +1,17 @@
 ## Olá, me chamo Marcos Gabriel! 
 ### Bem vindo ao meu perfil GitHub 👋
 <br />
-Sou dev estudante do curso superior em Ciências da Computação e estou no terceiro semestre. Tenho 26 anos, sou natural de Brasília - DF e gosto muito de jogos,
-especialmente os do gênero Souls Like.
+Sou dev estudante do curso superior em Ciências da Computação e estou no penultimo semestre. Tenho 26 anos, sou natural de Brasília - DF e gosto muito de jogos,
+especialmente os do gênero de fantasia sombria.
 <br />
 <br />
-- 🔭 Atualmente desenvolvo apps na Power Platform, voltados para a coleta de dados.
-<br />
-<br />
-- 🌱 Atualmente estou lendo 'storytelling com dados: um guia sobre visualização de dados para profissionais de negócios'
-
-  
+- 🔭 Atualmente sou analista de dados Jr, trabalhando com dados relacionados a semente de milho na empresa Syngenta Seeds
 <br />
 <br />
 
 ### Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
+        
 <br />
 <div>
 <a href="https://github.com/Coronel-Marc">
@@ -29,11 +25,24 @@ especialmente os do gênero Souls Like.
 
 <a href = "mailto:jorgede1097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcos-gabriel-95819a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+### Referencias:
+
+<div>
+
 <a href="https://leetcode.com/Coronel-Marc/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
+<a href="https://www.hackerrank.com/profile/jorgede1097" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>
+
+  
 </div>
 
 
+<!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
 
+-->
 
 <!--
 **Coronel-Marc/Coronel-Marc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
