@@ -1,8 +1,7 @@
 ## Olá, me chamo Marcos Gabriel! 
 ### Bem vindo ao meu perfil GitHub 👋
 <br />
-Sou dev estudante do curso superior em Ciências da Computação e estou no penultimo semestre. Tenho 26 anos, sou natural de Brasília - DF e gosto muito de jogos,
-especialmente os do gênero de fantasia sombria.
+Sou entusiasta de Python e trabalho como Estagiário de Analista de Dados na Syngenta Seeds, com foco na análise de espigas de milho
 <br />
 <br />
 - 🔭 Atualmente sou analista de dados Jr, trabalhando com dados relacionados a semente de milho na empresa Syngenta Seeds
