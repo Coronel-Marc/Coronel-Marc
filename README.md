@@ -1,10 +1,15 @@
 ## Hi, my name is Marcos!
 <br />
-I am a technology enthusiast with a keen interest in exploring various aspects of the tech world. I particularly enjoy working with programming languages such as Java, C++, and Rust. These languages offer unique features and capabilities that allow me to dive deep into software development and enhance my skills.
-My passion for technology drives me to continually learn and experiment with new projects, as I believe that there is always something new to discover and create within this ever-evolving field.
+I'm a Computer Science student and backend development enthusiast. Currently, I'm focused on mastering Java, Spring Boot, and software design principles, while also strengthening my understanding of data structures and algorithms.
+
+In my current role, I use Python and Google Workspace tools to automate internal processes, gaining real-world experience with scripting, APIs, and workflow optimization.
+
+I'm building personal projects to apply what I learn — check them out below!
 <br />
 <br />
-- 🔭 Currently studying for Backend
+📍 Currently transitioning into backend development with Java.
+
+
   
 <br />
 <br />
