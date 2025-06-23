@@ -1,18 +1,20 @@
-## Olá, me chamo Marcos!
+## Hi, my name is Marcos!
 <br />
-Sou entusiasta de tecnologia em geral. Gosto de mexer com linguagens como C, C++, Rust.
+I am a technology enthusiast with a keen interest in exploring various aspects of the tech world. I particularly enjoy working with programming languages such as Java, C++, and Rust. These languages offer unique features and capabilities that allow me to dive deep into software development and enhance my skills.
+My passion for technology drives me to continually learn and experiment with new projects, as I believe that there is always something new to discover and create within this ever-evolving field.
 <br />
 <br />
-- 🔭 Atualmente desenvolvo jogos
+- 🔭 Currently studying for Backend
+  
 <br />
 <br />
 
-### Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
         
 <br />
 
-### Contatos:
+### Contact:
 
 <div>
 
