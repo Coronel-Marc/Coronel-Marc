@@ -2,7 +2,7 @@
 <br />
 I'm a Computer Science student and backend development enthusiast. Currently, I'm focused on mastering Java, Spring Boot, and software design principles, while also strengthening my understanding of data structures and algorithms.
 
-In my current role, I use Python and Google Workspace tools to automate internal processes, gaining real-world experience with scripting, APIs, and workflow optimization.
+I like to create and some games too.
 
 I'm building personal projects to apply what I learn — check them out below!
 <br />
@@ -15,7 +15,8 @@ I'm building personal projects to apply what I learn — check them out below!
 <br />
 
 ### Languages
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+ <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" /> -->
         
 <br />
 
